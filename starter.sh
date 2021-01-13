@@ -1,6 +1,6 @@
 #! /bin/sh
 THEWAY=$(pwd)
-git clone https://github.com/andrei-schk/us_ident_study.git
+#git clone https://github.com/andrei-schk/us_ident_study.git
 unzip ./capstone_user_identification/3users
 unzip ./capstone_user_identification/10users
 unzip ./capstone_user_identification/150users
